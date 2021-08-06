@@ -17,6 +17,6 @@ However, I don't play much of the game anymore. Luckily the application keeps it
 
 ![Agents of Syn logo](https://raw.githubusercontent.com/mawburn/mawburn/main/aos.webp)
 
-Lately, I've been getting big into Tabletop Role Playing games. I'm not much of a fan of D&D, but love to play a lot of other systems. I run a Living World community called [Agents of Syn](https://agentsofsyn.com), which I'm building some software for. At first glance it might sound edgey, but it's actually kid friendly and the world is based on a [web comic series](https://www.uptofourplayers.com/) that I'm not affiliated with. I definitely think there is a lot more I could do for the TTRPG community if there were 100hrs in a day instead of 24. 
+Lately, I've been getting big into Tabletop Role Playing Games. I'm not much of a fan of D&D, but love to play a lot of other systems. I run a Living World community called [Agents of Syn](https://agentsofsyn.com), which I'm building some software for. At first glance it might sound edgey, but it's actually kid friendly and the world is based on a [web comic series](https://www.uptofourplayers.com/) that I'm not affiliated with. I definitely think there is a lot more I could do for the TTRPG community if there were 100hrs in a day instead of 24. 
 
 I'm also big into board games and want to do some projects in that space. 
