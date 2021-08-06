@@ -1,9 +1,4 @@
 # ![mawburn lars](https://raw.githubusercontent.com/mawburn/mawburn/main/lars-tiny.webp) mawburn _aka_ ![mawburn lars](https://raw.githubusercontent.com/mawburn/mawburn/main/hypnoCode-tiny.webp) hypnoCode _aka_ Matt 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mawburn&count_private=true&show_icons=true&theme=synthwave" alt="mawburn's github stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawburn&layout=compact&theme=synthwave" alt="mawburn's top languages" />
-</p>
 
 I have more ideas than time. I am one of the lucky few who's job is also their passion, so I program in my free time a good bit. 
 
