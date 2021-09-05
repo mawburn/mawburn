@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/mawburn/mawburn/main/lars-tiny.webp" alt="Matt Burnett - mawburn Lars Fillmore" />
   <img src="https://raw.githubusercontent.com/mawburn/mawburn/main/hypnoCode-tiny.webp" alt="Matt Burnett - hypnoCode" />
+  <img src="https://raw.githubusercontent.com/mawburn/mawburn/main/photo.webp" alt="Matt Burnett" />
 </p>
 <p align="center">
   <strong>mawburn</strong> <em>aka</em> <strong>hypnoCode</strong> <em>aka</em> <strong>Matt</strong>
