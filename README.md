@@ -8,9 +8,9 @@ You can find my main home page here, though I don't keep up with it like I shoul
 
 It lists some projects that I do and some other things about me. 
 
-## Open Source
+## ![Portaler Logo](https://raw.githubusercontent.com/mawburn/mawburn/main/portaler.webp) Open Source
 
-![Portaler Logo](https://raw.githubusercontent.com/mawburn/mawburn/main/portaler.webp) I created and run a project called [Portaler](https://portaler.zone). It's a collaborative mapping application for an MMORPG called Albion Online. As of this writing, I get roughly 20,000 unique vistors a month running on barely any hardware and an active Discord server of around 3,000 users.
+I created and run a project called [Portaler](https://portaler.zone). It's a collaborative mapping application for an MMORPG called Albion Online. As of this writing, I get roughly 20,000 unique vistors a month running on barely any hardware and an active Discord server of around 3,000 users.
 
 You can find the repo here: [github.com/Portaler-Zone/portaler-core](https://github.com/Portaler-Zone/portaler-core)
 
