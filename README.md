@@ -25,4 +25,4 @@ It lists some projects that I do and some other things about me.
 
 I created a project called [Portaler](https://portaler.zone). It was a multitenant collaborative mapping application for an MMORPG called Albion Online. It peaked at 21,000 unique vistors a month and with a Discord bot for role-based authentication runing on about 490 servers running on barely any hardware. It also had an active [Discord server](https://discord.gg/W2NteY4dDS) that peaked at around 2700 users.
 
-The service was sunsetted December 1, 2021, but the project remains open source. You can find the repo here: [github.com/Portaler-Zone/portaler-core](https://github.com/Portaler-Zone/portaler-core)
+The service was sunsetted Dec 1, 2021, but the project remains open source. You can find the repo here: [github.com/Portaler-Zone/portaler-core](https://github.com/Portaler-Zone/portaler-core)
