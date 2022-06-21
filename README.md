@@ -20,12 +20,11 @@ It lists some projects that I do and some other things about me.
 
 ### Tabletop.Land
 
-I also run a side multivendor ecommerce business for tabletop terrain & miniatures.
 
-<p align="center">
-<a align="center" href="https://tabletop.land" rel="noopener"><img src="https://raw.githubusercontent.com/mawburn/mawburn/main/tabletopland.webp" alt="TabletopLand - Terrain, Miniatures, & more" width="75px" height="75px" />
+<a  href="https://tabletop.land" rel="noopener"><img src="https://raw.githubusercontent.com/mawburn/mawburn/main/tabletopland.webp" alt="TabletopLand - Terrain, Miniatures, & more" width="75px" height="75px" />
  </a>
-</p>
-<p align="center">
-  https://tabletop.land
-</p>
+
+
+I also run a side multivendor ecommerce business for tabletop terrain & miniatures: https://tabletop.land
+
+
