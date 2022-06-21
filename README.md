@@ -18,7 +18,7 @@ You can find my main home page here, though I don't keep up with it like I shoul
 
 It lists some projects that I do and some other things about me. 
 
-#### Personal Socials
+### Personal Socials
 
 - Twitter: https://twitter.com/_mawburn
 - IG: https://www.instagram.com/_mawburn
