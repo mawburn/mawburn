@@ -18,13 +18,20 @@ You can find my main home page here, though I don't keep up with it like I shoul
 
 It lists some projects that I do and some other things about me. 
 
+#### Personal Socials
+
+- Twitter: https://twitter.com/_mawburn
+- IG: https://www.instagram.com/_mawburn
+- LinkedIn: https://www.linkedin.com/in/burnettmatt/
+
 ### Tabletop.Land
 
 
 <a  href="https://tabletop.land" rel="noopener"><img src="https://raw.githubusercontent.com/mawburn/mawburn/main/tabletopland.webp?v=1" alt="TabletopLand - Terrain, Miniatures, & more" width="75px" height="75px" />
- </a>
+</a>
 
 
-I also run a side multivendor ecommerce business for tabletop terrain & miniatures: https://tabletop.land
+I also run a side multivendor ecommerce business for tabletop terrain & miniatures
 
-
+- Main Site: https://tabletop.land
+- IG: https://www.instagram.com/tabletopland/
