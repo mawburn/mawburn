@@ -1,9 +1,9 @@
 # About me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mawburn/mawburn/main/lars-tiny.webp" alt="Matt Burnett - mawburn Lars Fillmore" />
-  <img src="https://raw.githubusercontent.com/mawburn/mawburn/main/hypnoCode-tiny.webp" alt="Matt Burnett - hypnoCode" />
-  <img src="https://raw.githubusercontent.com/mawburn/mawburn/main/photo.webp" alt="Matt Burnett" />
+  <img src="https://raw.githubusercontent.com/mawburn/mawburn/main/lars-tiny.webp" alt="Matt Burnett - mawburn Lars Fillmore" width="32px" height="32px"  />
+  <img src="https://raw.githubusercontent.com/mawburn/mawburn/main/hypnoCode-tiny.webp" alt="Matt Burnett - hypnoCode" width="32px" height="32px"  />
+  <img src="https://raw.githubusercontent.com/mawburn/mawburn/main/photo.webp" alt="Matt Burnett" width="32px" height="32px"  />
   <img src="https://raw.githubusercontent.com/mawburn/mawburn/main/Discord.webp" alt="hypnoCode - Discord" width="32px" height="32px" />
 </p>
 <p align="center">
