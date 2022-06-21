@@ -8,8 +8,8 @@
 </p>
 <p align="center">
   <strong>mawburn</strong> 
-  <em>aka</em> <strong>hypnoCode</strong> 
-  <em>aka</em> <strong>Matt</strong>
+  <em>/</em> <strong>hypnoCode</strong> 
+  <em>/</em> <strong>Matt</strong>
 </p>
 
 I have more ideas than time. I am one of the lucky few who's job is also their passion, so I program in my free time a good bit. 
