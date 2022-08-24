@@ -20,6 +20,7 @@ It lists some projects that I do and some other things about me.
 
 ### Personal Socials
 
-- Twitter: https://twitter.com/_mawburn
-- IG: https://www.instagram.com/_mawburn
+
+- IG: https://www.instagram.com/_mawburn (most active)
 - LinkedIn: https://www.linkedin.com/in/burnettmatt/
+- Twitter: https://twitter.com/_mawburn (least active)
