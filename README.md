@@ -17,7 +17,7 @@ You can find my main home page here, though I don't keep up with it like I shoul
 
 It lists some projects that I do and some other things about me. 
 
-## Side Gig
+### Side Gig
 
 I run a little 3D Printing and other tabletop crafts shop with my wife:
 
