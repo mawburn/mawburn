@@ -29,7 +29,7 @@ I run a little 3D Printing and other tabletop crafts shop with my wife:
 
 https://tabletop.land
 
-Technically, it's part of my main job too since I'm [dog fooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) the Shopify platform for a serious business.
+Technically, it's part of my main job too since I'm [dog fooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) the Shopify platform for a serious business. It's fun, we like it, and it makes a little bit of profit. 
 
 ### Personal Socials
 
