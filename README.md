@@ -13,9 +13,11 @@
 
 I have more ideas than time. I am one of the lucky few who's job is also their passion, so I program in my free time a good bit. 
 
-You can find my main home page here, though I don't keep up with it like I should: [mawburn.com](https://mawburn.com)
+- Enneagram: [Type 3](https://www.enneagraminstitute.com/type-3) — The Achiever
+- Myers-Briggs: [ESFP-A](https://www.16personalities.com/esfp-personality) — The Entertainer (Assertive)
+  - Fun fact, I was [INTJ](https://www.16personalities.com/intj-personality) most of my life until I started running Tabletop Roleplaying Games! I did a complete flip!
 
-It lists some projects that I do and some other things about me. 
+You can find my main home page at [mawburn.com](https://mawburn.com), though I don't keep up with it like I should. It lists some projects that I do and some other things about me. 
 
 ### Side Gig
 
