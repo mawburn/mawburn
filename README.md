@@ -13,9 +13,9 @@
 
 I have more ideas than time. I am one of the lucky few who's job is also their passion, so I program in my free time a good bit. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mawburn&layout=compact&disable_animations=true&theme=shades-of-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mawburn&layout=compact&disable_animations=true&theme=shades-of-purple&hide_border=true)
 
-![mawburn's github stats](https://github-readme-stats.vercel.app/api?username=mawburn&count_private=true&theme=shades-of-purple&show_icons=true&include_all_commits=true&custom_title=Matt's%20stats&disable_animations=true&hide=prs,issues,contribs)
+![mawburn's github stats](https://github-readme-stats.vercel.app/api?username=mawburn&count_private=true&theme=shades-of-purple&show_icons=true&include_all_commits=true&custom_title=Matt's%20stats&disable_animations=true&hide=prs,issues,contribs&hide_border=true)
 
 - Enneagram: [Type 3](https://www.enneagraminstitute.com/type-3) — The Achiever
 - Myers-Briggs: [ESFP-A](https://www.16personalities.com/esfp-personality) — The Entertainer (Assertive)
