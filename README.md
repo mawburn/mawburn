@@ -13,9 +13,12 @@
 
 I have more ideas than time. I am one of the lucky few who's job is also their passion, so I program in my free time a good bit. 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mawburn&layout=compact&disable_animations=true&theme=shades-of-purple)
+
+![mawburn's github stats](https://github-readme-stats.vercel.app/api?username=mawburn&count_private=true&theme=shades-of-purple&show_icons=true&include_all_commits=true&custom_title=Matt's%20stats&disable_animations=true&hide=prs,issues,contribs)
+
 - Enneagram: [Type 3](https://www.enneagraminstitute.com/type-3) — The Achiever
 - Myers-Briggs: [ESFP-A](https://www.16personalities.com/esfp-personality) — The Entertainer (Assertive)
-  - Fun fact, I was [INTJ](https://www.16personalities.com/intj-personality) most of my life until I started running Tabletop Roleplaying Games! I did a complete flip!
 
 You can find my main home page at [mawburn.com](https://mawburn.com), though I don't keep up with it like I should. It lists some projects that I do and some other things about me. 
 
@@ -32,7 +35,6 @@ https://tabletop.land
 Technically, it's part of my main job too since I'm [dog fooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) the Shopify platform for a serious business. It's fun, we like it, and it makes a little bit of profit. 
 
 ### Personal Socials
-
 
 - IG: [@_mawburn](https://www.instagram.com/_mawburn) (most active)
 - LinkedIn: [burnettmatt](https://www.linkedin.com/in/burnettmatt/)
