@@ -16,10 +16,6 @@ I have more ideas than time. I am one of the lucky few who's job is also their p
 - Enneagram: [Type 3](https://www.enneagraminstitute.com/type-3) — The Achiever
 - Myers-Briggs: [ESFP-A](https://www.16personalities.com/esfp-personality) — The Entertainer (Assertive)
 
-![Top Langs](https://github-readme-stats-t8ao-git-master-mawburn.vercel.app/api/top-langs/?username=mawburn&layout=compact&disable_animations=true&theme=shades-of-purple&hide_border=true)   
-![mawburn's github stats](https://github-readme-stats-t8ao-git-master-mawburn.vercel.app/api?username=mawburn&count_private=true&theme=shades-of-purple&show_icons=true&include_all_commits=true&custom_title=Matt's%20stats&disable_animations=true&hide=prs,issues,contribs&hide_border=true)  
-<sub>[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</sub>
-
 You can find my main home page at [mawburn.com](https://mawburn.com), though I don't keep up with it like I should. It lists some projects that I do and some other things about me. 
 
 ### Side Gig
