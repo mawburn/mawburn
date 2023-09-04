@@ -34,4 +34,3 @@ Technically, it's part of my main job too since I'm [dog fooding](https://en.wik
 
 - IG: [@_mawburn](https://www.instagram.com/_mawburn) (most active)
 - LinkedIn: [burnettmatt](https://www.linkedin.com/in/burnettmatt/)
-- Twitter: [@_mawburn](https://twitter.com/_mawburn) (least active)
