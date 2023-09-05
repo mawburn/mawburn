@@ -1,5 +1,3 @@
-# About me
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/mawburn/mawburn/main/lars-tiny.webp?v=1" alt="Matt Burnett - mawburn Lars Fillmore" width="32" height="32"  />
   <img src="https://raw.githubusercontent.com/mawburn/mawburn/main/hypnoCode-tiny.webp?v=1" alt="Matt Burnett - hypnoCode" width="32" height="32"  />
