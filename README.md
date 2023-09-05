@@ -18,12 +18,11 @@ You can find my main home page at [mawburn.com](https://mawburn.com), though I d
 
 ### Side Gig
 
-I run a little 3D Printing and other tabletop crafts shop with my wife: 
+I run a little 3D Printing and other tabletop crafts shop with my wife: https://tabletop.land
 
 <a href="https://tabletop.land">
   <img src="https://cdn.tabletop.media/tabletop.land/assets/logo-140.webp" alt="Tabletop.Land" width="70" height="70" />
 </a>
 
-https://tabletop.land
 
 Technically, it's part of my main job too since I'm [dog fooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) the Shopify platform for a serious business. It's fun, we like it, and it makes a little bit of profit. 
