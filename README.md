@@ -16,8 +16,6 @@ I have more ideas than time. I am one of the lucky few who's job is also their p
 
 You can find my main home page at [mawburn.com](https://mawburn.com), though I don't keep up with it like I should. It lists some projects that I do and some other things about me. 
 
-### Side Gig
-
 I run a little 3D Printing and other tabletop crafts shop with my wife: https://tabletop.land
 
 <a href="https://tabletop.land">
@@ -25,4 +23,4 @@ I run a little 3D Printing and other tabletop crafts shop with my wife: https://
 </a>
 
 
-Technically, it's part of my main job too since I'm [dog fooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) the Shopify platform for a serious business. It's fun, we like it, and it makes a little bit of profit. 
+She does most of the real business work, while I focus on the tech side. But technically, it's part of my main job too since I'm [dog fooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) the Shopify platform for a serious business. It's fun, we like it, and it makes a little bit of profit. 
