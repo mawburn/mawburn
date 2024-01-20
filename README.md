@@ -1,16 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mawburn/mawburn/main/lars-tiny.webp?v=1" alt="Matt Burnett - mawburn Lars Fillmore" width="32" height="32"  />
-  <img src="https://raw.githubusercontent.com/mawburn/mawburn/main/hypnoCode-tiny.webp?v=1" alt="Matt Burnett - hypnoCode" width="32" height="32"  />
-  <img src="https://raw.githubusercontent.com/mawburn/mawburn/main/photo.webp?v=2" alt="Matt Burnett" width="32" height="32"  />
-</p>
-<p align="center">
-  <strong>mawburn</strong> 
-  <em>/</em> <strong>hypnoCode</strong> 
-  <em>/</em> <strong>Matt</strong>
-</p>
-
-I have more ideas than time. I am one of the lucky few who's job is also their passion, so I program in my free time a good bit. 
-
 - Enneagram: [Type 3](https://www.enneagraminstitute.com/type-3) — The Achiever
 - Myers-Briggs: [ESFP-A](https://www.16personalities.com/esfp-personality) — The Entertainer (Assertive)
 
@@ -21,6 +8,5 @@ I run a little 3D Printing and other tabletop crafts shop with my wife: https://
 <a href="https://tabletop.land">
   <img src="https://cdn.tabletop.media/tabletop.land/assets/logo-140.webp" alt="Tabletop.Land" width="70" height="70" />
 </a>
-
 
 She does most of the real business work, while I focus on the tech side. But technically, it's part of my main job too since I'm [dog fooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) the Shopify platform for a serious business. It's fun, we like it, and it makes a little bit of profit. 
